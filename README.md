@@ -1,6 +1,9 @@
 # Netflix Data Analysis 📊🍿
 [![ljfwrcfs.png](https://i.postimg.cc/jd2kfzWP/ljfwrcfs.png)](https://postimg.cc/1fxHhVr3)
 
+### Blog Page On this Analysis 👉 [![M|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://medium.com/@ffactory335/netflix-unveiled-a-data-driven-case-study-in-streaming-strategies-ac6ac6e56be0)
+
+
 ## This repository presents an in-depth exploratory data analysis (EDA) of Netflix movies and TV shows. The analysis encompasses various aspects including missing data patterns, data correlations, top genres, content distribution, and more. The data visualization and insights are aimed at providing a comprehensive understanding of the Netflix content landscape.
 # Contents 📋
 - Jupyter Notebook: Detailed analysis with code.
